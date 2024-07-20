@@ -1,0 +1,7 @@
+{
+    errdata = "\27[01m\27[K06_loop/main.cpp:\27[m\27[K In function ‘\27[01m\27[Klong long unsigned int\27[01;32m\27[K fibonacci\27[m\27[K(int)\27[m\27[K’:\
+\27[01m\27[K06_loop/main.cpp:9:19:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kcomparison of integer expressions of different signedness: ‘\27[01m\27[Klong long unsigned int\27[m\27[K’ and ‘\27[01m\27[Kint\27[m\27[K’ [\27[01;35m\27[K-Wsign-compare\27[m\27[K]\
+    9 |     for (; \27[01;35m\27[Kcached <= i\27[m\27[K; ++cached) {\
+      |            \27[01;35m\27[K~~~~~~~^~~~\27[m\27[K\
+"
+}
