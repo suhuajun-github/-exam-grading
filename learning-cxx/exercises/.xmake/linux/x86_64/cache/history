@@ -1,6 +1,14 @@
 {
     cmdlines = {
         "xmake lua /usr/share/xmake/modules/private/utils/statistics.lua --project=/home/suhuajun/tmp/learning-cxx/exercises",
-        "xmake lua /usr/share/xmake/actions/build/cleaner.lua --project=/home/suhuajun/tmp/learning-cxx/exercises"
+        "xmake lua /usr/share/xmake/actions/build/cleaner.lua --project=/home/suhuajun/tmp/learning-cxx/exercises",
+        "xmake lua /usr/share/xmake/modules/private/utils/statistics.lua --project=/home/suhuajun/tmp/exam-grading/learning-cxx/exercises",
+        "xmake run",
+        "xmake run learn",
+        "xmake run learn 25",
+        "xmake lua /usr/share/xmake/modules/private/utils/statistics.lua --project=/home/suhuajun/tmp/exam-grading/learning-cxx/exercises",
+        "xmake lua /usr/share/xmake/actions/build/cleaner.lua --project=/home/suhuajun/tmp/exam-grading/learning-cxx/exercises",
+        "xmake lua /usr/share/xmake/modules/private/utils/statistics.lua --project=/home/suhuajun/tmp/exam-grading/learning-cxx/exercises",
+        "xmake lua /usr/share/xmake/actions/build/cleaner.lua --project=/home/suhuajun/tmp/exam-grading/learning-cxx/exercises"
     }
 }
