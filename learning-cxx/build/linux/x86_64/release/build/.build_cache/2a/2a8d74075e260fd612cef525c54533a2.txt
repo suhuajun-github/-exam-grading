@@ -1,7 +1,0 @@
-{
-    errdata = "\27[01m\27[K29_std_accumulate/main.cpp:\27[m\27[K In function ‘\27[01m\27[Kint\27[01;32m\27[K main\27[m\27[K(int, char**)\27[m\27[K’:\
-\27[01m\27[K29_std_accumulate/main.cpp:7:11:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Ktypedef ‘\27[01m\27[Kusing DataType = float\27[m\27[K’ locally defined but not used [\27[01;35m\27[K-Wunused-local-typedefs\27[m\27[K]\
-    7 |     using \27[01;35m\27[KDataType\27[m\27[K = float;\
-      |           \27[01;35m\27[K^~~~~~~~\27[m\27[K\
-"
-}
